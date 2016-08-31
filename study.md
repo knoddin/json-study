@@ -70,7 +70,8 @@ already wrote and include the information about Dave's fish.
 Using the JSON your wrote above, can you write a method on the JSON?
 
 ```json
-<!-- your answer here -->
+No, JSON is only data presented in strings and cannot have behaviors/methods
+attached to it.
 ```
 
 ## JSON Comments
