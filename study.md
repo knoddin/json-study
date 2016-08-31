@@ -79,5 +79,5 @@ attached to it.
 Using the JSON your wrote above, can you write a comment in the JSON?
 
 ```json
-<!-- your answer here -->
+No, JSON is already text or a string so it cannot have comments. 
 ```
